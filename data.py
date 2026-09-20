@@ -32,5 +32,12 @@ elif temp == 68:
 else:
     print('cold')
  """
-x=int(input("Enter a number: "))
-odd = range(x+1)
+def x(a, b):
+    return a + b
+
+result = x(5, 3)
+print(result)
+""" ("Enter a number: ")
+if input: x > 2 """
+
+
