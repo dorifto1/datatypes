@@ -35,9 +35,17 @@ else:
 def x(a, b):
     return a + b
 
-result = x(5, 3)
+result = 2 + 2
 print(result)
-""" ("Enter a number: ")
-if input: x > 2 """
+
+
+
+"""input:("Enter a number: ")
+if input: x > 2 
+    print('odd')
+ else 
+    x 
+    
+    """
 
 
