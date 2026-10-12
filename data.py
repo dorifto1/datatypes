@@ -45,7 +45,6 @@ if input: x > 2
     print('odd')
  else 
     x 
-    
     """
 
 
